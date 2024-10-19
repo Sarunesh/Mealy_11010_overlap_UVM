@@ -1,0 +1,1 @@
+typedef uvm_sequencer#(mealy_overlap_11010_tx) mealy_overlap_11010_sqr;
